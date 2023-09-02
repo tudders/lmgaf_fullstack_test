@@ -26,7 +26,7 @@
      - Given I've not used Laravel, IntertiaJS, or Tailwind extensively before - keep things relatively simple.  
 
 ## Development approach
-1. On paper draw the application structure - all the pieces, split into pages amd components, and auth boundaries.
+1. On paper draw the application structure - all the pieces, split into pages and components, and auth boundaries.
 2. build all the pages in Vue, Laravel routes. 
 3. One by one build (un-styled) pages that post - model, controller logic, database, and input elements.
 4. Build auth into the backend (login page).
