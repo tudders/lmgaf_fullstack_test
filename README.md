@@ -3,8 +3,8 @@
 
  ## Running the app
  + The app runs on http://127.0.0.1:8000
- + In a terminal window navigate to the repo folder and type _php artisan serve_
- + In another terminal navigate to the same folder and type _npm run dev_
+ + In a terminal window navigate to the repo folder, run _composer update_ and run _php artisan serve_
+ + In another terminal navigate to the same folder, run _npm install_ and run _npm run dev_
  + View the site in the browser at http://127.0.0.1:8000
 
 
